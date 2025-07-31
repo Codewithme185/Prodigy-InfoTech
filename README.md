@@ -21,7 +21,7 @@ This internship allowed me to apply data analysis and visualization techniques u
 **Tools Used**: Pandas, Matplotlib, Seaborn  
 **Dataset**: [World Bank Population Dataset]  
 **Output**: Bar chart of top 10 most populated countries in 2022.  
-📎 [View Code →](./titanic_eda_analysis.py) *(or change to actual filename)*
+📎 [View Code →](Task_01.py) *(or change to actual filename)*
 
 ---
 
@@ -33,7 +33,7 @@ This internship allowed me to apply data analysis and visualization techniques u
 - Removed duplicates
 - Plotted survival distributions based on gender, class, and age
 
-📎 [View Code →](./titanic_eda_analysis.py)
+📎 [View Code →](Task_02.py)
 
 ---
 
